@@ -14,7 +14,6 @@ print("age")
 
 # EX:2
 #  USER INPUT
-
 a=(input("Enter your address: ") )
 
 if(a=="Quetta chiltan housing scheme airport road"):
